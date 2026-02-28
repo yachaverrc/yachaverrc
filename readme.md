@@ -1,5 +1,5 @@
 # ☁️ Hi, I'm Yhilmar Chaverra
-### Systems Engineering Student | DevOps & Cloud Enthusiast
+### Systems Engineering | DevOps & Cloud Enthusiast
 
 <p align="left">
   <img src="https://img.shields.io/github/followers/yachaverrc?label=Followers&style=for-the-badge&color=232F3E&logo=github" />
@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-Soy un estudiante de Ingeniería de Sistemas apasionado por la automatización y la infraestructura escalable. Mi enfoque principal es el ecosistema **Cloud Native** y la cultura **DevOps**.
+Soy un Ingeniero de Sistemas apasionado por la automatización y la infraestructura escalable. Mi enfoque principal es el ecosistema **Cloud Native** y la cultura **DevOps**.
 
 * 🚀 **Proyectos:** Enfocado en despliegues con Docker y servicios de AWS.
 * 🌱 **Aprendiendo:** Kubernetes, Terraform y Pipelines de CI/CD.
@@ -53,4 +53,5 @@ Soy un estudiante de Ingeniería de Sistemas apasionado por la automatización y
 <p align="center">
   <i>"Automating the world, one commit at a time."</i>
 </p>
+
 
