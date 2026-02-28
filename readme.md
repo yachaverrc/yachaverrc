@@ -2,14 +2,14 @@
 ### Systems Engineering Student | DevOps & Cloud Enthusiast
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yachaverrc&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yachaverrc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="170" />
+  <img src="https://img.shields.io/github/followers/yachaverrc?label=Followers&style=for-the-badge&color=232F3E&logo=github" />
+  <img src="https://img.shields.io/github/stars/yachaverrc?label=Stars&style=for-the-badge&color=2496ED&logo=reverbnation" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-Soy un estudiante de Ingeniería de Sistemas apasionado por la automatización y la infraestructura escalable. Actualmente, estoy enfocado en profundizar mis conocimientos en el ecosistema **Cloud Native** y metodologías **DevOps**.
+Soy un estudiante de Ingeniería de Sistemas apasionado por la automatización y la infraestructura escalable. Mi enfoque principal es el ecosistema **Cloud Native** y la cultura **DevOps**.
 
 * 🚀 **Proyectos:** Enfocado en despliegues con Docker y servicios de AWS.
 * 🌱 **Aprendiendo:** Kubernetes, Terraform y Pipelines de CI/CD.
@@ -40,7 +40,7 @@ Soy un estudiante de Ingeniería de Sistemas apasionado por la automatización y
 
 ### 📫 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:tu-correo@ejemplo.com">
@@ -51,6 +51,5 @@ Soy un estudiante de Ingeniería de Sistemas apasionado por la automatización y
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Actively%20Learning-green?style=flat-square" />
-  <img src="https://img.shields.io/github/followers/yachaverrc?label=Followers&style=flat-square" />
+  <i>"Automating the world, one commit at a time."</i>
 </p>
